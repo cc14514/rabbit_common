@@ -2,7 +2,7 @@
              [{description,"RabbitMQ Common Libraries"},
               {vsn,"3.4.4"},
               {modules,[app_utils,credit_flow,pmon,gen_server2,
-                        mirrored_supervisor,mochijson2,priority_queue,
+                        mirrored_supervisor,priority_queue,
                         rabbit_backing_queue,rabbit_basic,
                         rabbit_binary_generator,rabbit_binary_parser,
                         rabbit_channel,rabbit_channel_interceptor,
